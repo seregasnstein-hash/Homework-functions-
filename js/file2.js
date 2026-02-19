@@ -9,7 +9,9 @@ function exponentiation(number, exponent) {
 let result = exponentiation(2, 3);
 let result2 = exponentiation(5, 5);
 let result3 = exponentiation(3, 9);
+let result4 = exponentiation(2, 5);
 
 console.log(result);
 console.log(result2);
 console.log(result3);
+console.log(result4);
